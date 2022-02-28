@@ -1,0 +1,33 @@
+<h1 align="center">Sandra Rodriguez</h1> <!--title of website-->
+<p align="center"><img src = "image/me.jpg" alt = "Me" /></p> <!--inserts image-->
+<font face = "Times New Roman" color = "black" size = "5"> <!--formatting-->
+
+</body>
+
+<h2>About Me</h2> <!--title-->
+<p>
+  My name is Sandra Rodriguez (technically Stephenson), I am 21 and was born and raised in Riverside, CA.
+  I attended San Diego State University in 2018. I studied in San Diego for 2 years and then decided
+  to move to Europe for someone I had just met (and am now married to). For this reason, I am now
+  pursuing an online degree in software development from GCU!
+</p>
+<h2>Contact Me</h2> <!--title-->
+<p>
+    Email: sdstephenson5@gmail.com <br>
+    Phone #: (951)224-0115 </p>
+
+    <h2>List of Hobbies</h2> <!--title-->
+
+<ol>
+    <li> Making functional art (lots of clay involved)</li> <!--list-->
+    <li> The gym</li>
+    <li> Watching baseball (Go Dodgers!)</li>
+</ol>
+
+<h2>List of Important Events</h2> <!--title-->
+
+<ol>
+    <li> Discontinued elementary education degree, swapped to software development.</li> <!--list-->
+    <li> 03.04.21 : Moved to Europe.</li>
+    <li> 02.3.22: Got married!</li>
+</ol>

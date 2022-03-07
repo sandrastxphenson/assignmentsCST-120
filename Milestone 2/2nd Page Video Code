@@ -1,0 +1,40 @@
+<h1 align="left">Video and Audio Media</h1>
+<body> <!--inserts youtube video-->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MCRiUi28UpA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </body>
+    <br />
+
+    <div align="left"> <!--creates table-->
+        <h1>Song Recommendation Table</h1>
+        <table width="50%" border="1">
+            <tr align="center">
+                <th width="33%">Song Name</th>
+                <th width="33%">Artist</th>
+                <th width="33%">Genre</th>
+            </tr>
+            <tr">
+            <td align="left">In Bloom</td>
+            <td align="center">Neck Deep</td>
+            <td align="center">Pop Punk</td>
+            </tr>
+            <tr">
+            <td align="left">Last Resort</td>
+            <td align="center">Papa Roach</td>
+            <td align="center">Rock</td>
+            </tr>
+            <tr">
+            <td align="left">China Doll</td>
+            <td align="center">Brigades</td>
+            <td align="center">Pop Punk</td>
+            </tr>
+            <tr">
+            <td align="left">Ma Cherie</td>
+            <td align="center">Palaye Royale ft. Kellin Quinn</td>
+            <td align="center">Rock</td>
+            </tr>
+            <tr">
+            
+        </tr>
+        </table>
+    </div>
+    <a href = "home.html">Back to Home Page</a> <!--anchor tag to home-->

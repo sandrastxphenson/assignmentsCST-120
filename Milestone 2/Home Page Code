@@ -1,0 +1,40 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+</head>
+<body>
+
+</body>
+</html>
+<h1 align="center">About Me: Sandra Rodriguez</h1>
+<font face = "Times New Roman" color = "black" size = "8"></font>
+<p align="center"><img src = "image/me.JPG" alt = "Sandra Rodriguez" /></p>
+
+<h2>About Me</h2>
+<br>My name is Sandra Rodriguez and I am 21 years old. I was born in Riverside, CA; however, I moved to San Diego, CA in 2018
+    in order to pursue my academic career at San Diego State University. Three years into my academic career at SDSU, I decided
+    to move to Europe and pursue an online degree. After 1 year in Spain and Portugal, I currently reside in San Diego, CA and
+    may be moving to Costa Rica in the near future! </br>
+
+    My main hobbies include reading, going to the gym, and watching Naruto. I also enjoy going kayaking, paddle boarding, and
+    the salty air at the beach. Even as a current GCU student, I have yet to step foot in Arizona, but I hope to change that 
+    one day!
+</p>
+
+<h2>Contact Me</h2>
+<p>Phone #: (951)224-0115</p> 
+<p>Email: sdstephenson5@gmail.com</p>
+
+<h2> Most Recent Life Events</h2>
+<ol>
+    <li>03-15-21: Moved to Spain</li>
+    <li>06-15-21: Moved to Portugal</li>
+    <li>02-03-22: Married in San Diego, CA</li>
+
+
+</ol>
+<br />
+<h2>Favorite Summer Song & Song Recommendation Table</h2>
+<a href = "video.html">Song List</a> <!-- anchor tag to video and table-->

@@ -1,0 +1,24 @@
+<head>
+    <style>
+            body { margin-top: 20 px; margin-left: 20 px; background:rgb(215, 248, 232)}
+    h1 { color: #000000; font-family: 'Times New Roman'; font-weight: bold; font-size: 32px; margin: 0 0 16px; }
+    h2 { color: black; font-family: 'Times New Roman'; font-weight: bold; font-size: 28px; margin: 0 0 8px; }
+    li { color: #000000; font-family: 'Times New Roman'; font-size: 16px; margin: 0 0 8px; }
+    p {font-family: 'Times New Roman'; font-size: 18px; margin: 16px 0 24px;}
+
+          .div1 {
+            width: 80px; 
+            height: 50px; 
+            border: 1px solid black;
+            transition: transform 2s;
+        }
+       .div1{
+            transform: rotate(360deg);
+        }
+    </style>
+</head>
+
+<body>
+<div class="div1">Thank you for visiting!</div>
+</body>
+<a href = "home.html">Back to Home Page</a> <!--anchor tag to home-->

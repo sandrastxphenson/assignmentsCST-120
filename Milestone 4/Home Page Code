@@ -1,0 +1,63 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8"> <!--Creates page title on browser-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+<style>
+    body { margin-top: 20 px; margin-left: 20 px; background:rgb(215, 248, 232)}
+    h1 { color: #000000; font-family: 'Times New Roman'; font-weight: bold; font-size: 32px; margin: 0 0 16px; }
+    h2 { color: black; font-family: 'Times New Roman'; font-weight: bold; font-size: 28px; margin: 0 0 8px; }
+    li { color: #000000; font-family: 'Times New Roman'; font-size: 16px; margin: 0 0 8px; }
+    p {font-family: 'Times New Roman'; font-size: 18px; margin: 16px 0 24px;}
+    
+</style>
+</head>
+<body>
+
+</body>
+</html>
+<h1 align="center">About Me: Sandra Rodriguez</h1>
+<font face = "Times New Roman" color = "black" size = "8"></font>
+<p align="center"><img src = "image/me.JPG" style="border-radius: 10px" alt = "Sandra Rodriguez" /></p>
+
+<h2>About Me</h2>
+<br>My name is Sandra Rodriguez and I am 21 years old. I was born in Riverside, CA; however, I moved to San Diego, CA in 2018
+    in order to pursue my academic career at San Diego State University. Three years into my academic career at SDSU, I decided
+    to move to Europe and pursue an online degree. After 1 year in Spain and Portugal, I currently reside in San Diego, CA and
+    may be moving to Costa Rica in the near future! </br>
+
+    My main hobbies include reading, going to the gym, and watching Naruto. I also enjoy going kayaking, paddle boarding, and
+    the salty air at the beach. Even as a current GCU student, I have yet to step foot in Arizona, but I hope to change that 
+    one day!
+</p>
+
+
+
+<h2> Most Recent Life Events</h2>
+<ol>
+    <li>03-15-21: Moved to Spain</li>
+    <li>06-15-21: Moved to Portugal</li>
+    <li>02-03-22: Married in San Diego, CA</li>
+</ol>
+<br />
+<div align="left"> <!--creates table-->
+    <h1>Contact Me</h1>
+    <table width="50%" border="1">
+        <tr align="center">
+            <th width="50%">Phone Number</th>
+            <th width="50%">Email</th>
+        </tr>
+        <tr">
+        <td align="left">(951)224-0115</td>
+        <td align="center">sdstephenson5@gmail.com</td>
+        </tr>
+        <tr">
+        
+    </tr>
+    </table>
+</div>
+<p></p>
+<h2>Favorite Summer Song & Song Recommendation Table</h2>
+<a href="video.html">Song List</a> <!-- anchor tag to video and table-->
+<p></p>
+<a href="thankyou.html">Thank You Page & New Release List</a> 

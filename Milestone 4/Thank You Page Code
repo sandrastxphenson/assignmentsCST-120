@@ -1,0 +1,50 @@
+<head align="center">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <!--creates theme-->
+        <style>
+            body { margin-top: 20 px; margin-left: 20 px; background:rgb(215, 248, 232)}
+            h1 { color: #000000; font-family: 'Times New Roman'; font-weight: bold; font-size: 32px; margin: 0 0 16px; }
+            h2 { color: black; font-family: 'Times New Roman'; font-weight: bold; font-size: 28px; margin: 0 0 8px; }
+            li { color: #000000; font-family: 'Times New Roman'; font-size: 16px; margin: 0 0 8px; }
+            p {font-family: 'Times New Roman'; font-size: 18px; margin: 16px 0 24px;}
+    
+            @keyframes blinker { 50% {opacity: 0;}}
+            .blink_me_alarm { animation: blinker 2s step-start infinite; color: red;}
+        </style>
+</head>
+
+
+<body align="center">
+    <div align="center"> <!--creates table-->
+        <h1>Thank You For Visiting!</h1>
+        <p>Keep checking in for new music updates, life changes, and blog posts! </p>
+        <table width="50%" border="1">
+            <tr align="center">
+                <th width="50%">Blog Title</th>
+                <th width="50%">Release Date</th>
+            </tr>
+            <tr">
+            <td align="left">Top Songs of 2021</td>
+            <td align="center">March 25, 2022</td>
+            </tr>
+            <tr">
+            <td align="left">Best Rock Album 2022</td>
+            <td align="center">April 1, 2022</td>
+            </tr>
+            <tr">
+            <td align="left">MCR vs ADTR</td>
+            <td align="center">April 8, 2022</td>
+            </tr>
+            <tr">
+            <td align="left">Now That's What I Call Punk Podcast</td>
+            <td align="center">April 19, 2022</td>
+            </tr>
+            <tr">
+        </table>
+    </br>
+            <a href = "home.html">Back to Home Page</a> 
+</br>
+            <a href = "video.html">Song List</a>
+</body>
